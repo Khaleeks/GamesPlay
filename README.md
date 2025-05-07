@@ -1,7 +1,4 @@
-<<<<<<< Updated upstream
-# GamesPlay
-Games and  play final project
-=======
+
 # IM-UH 2320 Game and Play  
 **Dr. Domna Banakou**  
 **Rhythm Game: FALL'in Line**  
@@ -93,4 +90,4 @@ Feedback from playtesters emphasized how satisfying it felt when a player “got
 We see this game not only as entertainment but also as an invitation to feel rhythm as an immersive, embodied experience—one that engages players’ timing, perception, and motor coordination in a unique and memorable way.
 
 ---
->>>>>>> Stashed changes
+
