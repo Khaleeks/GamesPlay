@@ -70,10 +70,18 @@ We also received feedback on visual clarity and immersion. The camera angle was 
 ## Reflection and Evaluation
 Our goal was to create a unique game that mixed action and rhythm, and we feel like we’ve accomplished that. The game is fun, visually engaging, and ties the music into the gameplay in a way that feels natural.
 
-At first, we had some pretty ambitious ideas, but they didn’t always fit together well. It wasn’t until we started getting feedback and iterating that we found the right balance between gameplay and visuals. One big change was moving away from using arrows and instead using color-coded wall cutouts, which made the rhythm-based inputs a lot clearer and easier to follow.
-The biggest challenge was figuring out how to merge our different visions for the game. We all had our own ideas about what the game should look and feel like, and it took a lot of communication and compromise to agree on the final design. This process really helped us improve our teamwork and design skills.
+At first, we had some pretty ambitious ideas, but they didn’t always fit together well. The gameplay was too complicated and is also not feasible. It wasn’t until we started getting feedback and iterating that we found the right balance between gameplay and visuals. One big change was moving away from using arrows and instead using color-coded wall cutouts, which made the rhythm-based inputs a lot clearer and easier to follow. The biggest challenge was figuring out how to merge our different visions for the game. We all had our own ideas about what the game should look and feel like, and it took a lot of communication and compromise to agree on the final design. This process really helped us improve our teamwork and design skills. We took references from the existing rhythm games like Taiko no Tatsujin, Guitar Hero and Rhythm Heaven to figure out how to distribute the information to the split parts in our game to make it still interesting while being unique.
 
-We’re proud of how the game turned out, especially how it blends rhythm with action. The health and scoring system keeps things exciting, and the visual cues really help players stay in sync with the music. There’s still room to improve, like adding more animations and musical variety, but we’re happy with the result and feel it stays true to our original vision.
+We’re proud of how the game turned out, especially how it blends rhythm with action. The scoring and combo system gives the player senses of achievement, and the visual cues really help players stay in sync with the music.
+
+We also have great space for progress so far, these are things we would like to implement for further development:
+
+- HP system: The HP slowly increases by nature, and would decrease greatly when the player misses a note. When the player loses all HP, the game ends.
+- Special notes: special notes and walls either require special inputs (like long press or quick hits within a period) or give special effects like increasing HP, which would add diversity to gameplay to a great extent.
+- More difficulty levels
+- More soundtracks
+- More sound effects
+
 
 ---
 
@@ -81,15 +89,16 @@ We’re proud of how the game turned out, especially how it blends rhythm with a
 
 ![FALL'in Line](assets/opening.png)  
 
-"FALL'in Line" embodies meaningful play by merging abstract musical timing with concrete physical actions. In doing so, it transforms rhythm from something auditory into something *kinesthetic* and *visual*.
+“FALL'in Line” embodies meaningful play by merging abstract musical timing with concrete physical actions. In doing so, it transforms rhythm from something auditory into something kinesthetic and visual.
 
-At its core, the game serves as a metaphor for alignment—of timing, motion, and thought. The falling character represents the human journey through structured challenges. Each wall is a test, and each successful pose is a moment of harmony between chaos (falling) and order (the music).
+At its core, the game serves as a metaphor for the alignment of timing, motion, and thought. The falling character represents the human journey through structured challenges. Each wall is a test, and each successful pose is a moment of harmony between chaos (falling) and order (the music).
 
-Through this mechanic, we explore how rhythm can create a sense of control amidst disorientation, and how gameplay can simulate real human experiences—like adapting to fast-changing situations or syncing with external expectations (the beat).
+Through this mechanic, we explore how rhythm can create a sense of control amidst disorientation, and how gameplay can simulate real human experiences, like adapting to fast-changing situations or syncing with external expectations (the beat).
 
-Feedback from playtesters emphasized how satisfying it felt when a player “got into the flow.” That moment—when a player hits the right pose at the right time and sees their multiplier skyrocket—is more than a game mechanic. It’s a moment of *meaningful play* where skill, feedback, and narrative align.
+Feedback from playtesters emphasized how satisfying it felt when a player “got into the flow.” That moment, when a player hits the right pose at the right time and sees their multiplier skyrocket, is more than a game mechanic. It’s a moment of meaningful play where skill, feedback, and narrative align.
 
 We see this game not only as entertainment but also as an invitation to feel rhythm as an immersive, embodied experience—one that engages players’ timing, perception, and motor coordination in a unique and memorable way.
+
 
 ---
 
