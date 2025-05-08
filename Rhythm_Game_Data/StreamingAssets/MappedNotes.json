@@ -1,0 +1,377 @@
+{
+    "Items": [
+
+        {
+            "time": 7.50931978225708,
+            "direction": "right"
+        },
+        {
+            "time": 9.557324409484864,
+            "direction": "left"
+        },
+        {
+            "time": 11.839977264404297,
+            "direction": "down"
+        },
+        {
+            "time": 14.037323951721192,
+            "direction": "up"
+        },
+        {
+            "time": 16.234647750854493,
+            "direction": "left"
+        },
+        {
+            "time": 18.581315994262697,
+            "direction": "left"
+        },
+        {
+            "time": 20.693309783935548,
+            "direction": "right"
+        },
+        {
+            "time": 22.97598648071289,
+            "direction": "up"
+        },
+        {
+            "time": 25.279977798461915,
+            "direction": "up"
+        },
+        {
+            "time": 27.477323532104493,
+            "direction": "left"
+        },
+        {
+            "time": 29.71732521057129,
+            "direction": "up"
+        },
+        {
+            "time": 31.978662490844728,
+            "direction": "down"
+        },
+        {
+            "time": 34.197322845458987,
+            "direction": "up"
+        },
+        {
+            "time": 36.60798263549805,
+            "direction": "left"
+        },
+        {
+            "time": 38.67732238769531,
+            "direction": "left"
+        },
+        {
+            "time": 40.91732406616211,
+            "direction": "up"
+        },
+        {
+            "time": 43.17866134643555,
+            "direction": "up"
+        },
+        {
+            "time": 45.503990173339847,
+            "direction": "left"
+        },
+        {
+            "time": 47.59465026855469,
+            "direction": "up"
+        },
+        {
+            "time": 49.81331253051758,
+            "direction": "right"
+        },
+        {
+            "time": 52.074649810791019,
+            "direction": "down"
+        },
+        {
+            "time": 54.378662109375,
+            "direction": "left"
+        },
+        {
+            "time": 56.51199722290039,
+            "direction": "left"
+        },
+        {
+            "time": 58.81598663330078,
+            "direction": "up"
+        },
+        {
+            "time": 61.14131546020508,
+            "direction": "right"
+        },
+        {
+            "time": 61.781314849853519,
+            "direction": "up"
+        },
+        {
+            "time": 62.33598709106445,
+            "direction": "left"
+        },
+        {
+            "time": 64.0639877319336,
+            "direction": "up"
+        },
+        {
+            "time": 67.86131286621094,
+            "direction": "down"
+        },
+        {
+            "time": 70.101318359375,
+            "direction": "down"
+        },
+        {
+            "time": 72.31997680664063,
+            "direction": "left"
+        },
+        {
+            "time": 74.62399291992188,
+            "direction": "up"
+        },
+        {
+            "time": 76.8213119506836,
+            "direction": "up"
+        },
+        {
+            "time": 79.01866149902344,
+            "direction": "left"
+        },
+        {
+            "time": 81.343994140625,
+            "direction": "left"
+        },
+        {
+            "time": 83.56265258789063,
+            "direction": "down"
+        },
+        {
+            "time": 85.82398986816406,
+            "direction": "right"
+        },
+        {
+            "time": 88.0853271484375,
+            "direction": "left"
+        },
+        {
+            "time": 90.30399322509766,
+            "direction": "right"
+        },
+        {
+            "time": 92.54399108886719,
+            "direction": "right"
+        },
+        {
+            "time": 94.82664489746094,
+            "direction": "up"
+        },
+        {
+            "time": 96.98131561279297,
+            "direction": "up"
+        },
+        {
+            "time": 99.306640625,
+            "direction": "left"
+        },
+        {
+            "time": 100.97065734863281,
+            "direction": "right"
+        },
+        {
+            "time": 103.65866088867188,
+            "direction": "down"
+        },
+        {
+            "time": 105.96265411376953,
+            "direction": "left"
+        },
+        {
+            "time": 108.20265197753906,
+            "direction": "left"
+        },
+        {
+            "time": 110.42131805419922,
+            "direction": "up"
+        },
+        {
+            "time": 112.66131591796875,
+            "direction": "right"
+        },
+        {
+            "time": 114.96533203125,
+            "direction": "right"
+        },
+        {
+            "time": 116.6719970703125,
+            "direction": "left"
+        },
+        {
+            "time": 119.44532775878906,
+            "direction": "left"
+        },
+        {
+            "time": 121.64265441894531,
+            "direction": "left"
+        },
+        {
+            "time": 123.90399169921875,
+            "direction": "left"
+        },
+        {
+            "time": 126.1866455078125,
+            "direction": "up"
+        },
+        {
+            "time": 128.44798278808595,
+            "direction": "right"
+        },
+        {
+            "time": 130.66664123535157,
+            "direction": "right"
+        },
+        {
+            "time": 132.90664672851563,
+            "direction": "down"
+        },
+        {
+            "time": 135.12533569335938,
+            "direction": "down"
+        },
+        {
+            "time": 137.4293212890625,
+            "direction": "down"
+        },
+        {
+            "time": 139.583984375,
+            "direction": "left"
+        },
+        {
+            "time": 141.8879852294922,
+            "direction": "up"
+        },
+        {
+            "time": 144.0853271484375,
+            "direction": "left"
+        },
+        {
+            "time": 146.26132202148438,
+            "direction": "left"
+        },
+        {
+            "time": 148.56532287597657,
+            "direction": "left"
+        },
+        {
+            "time": 150.8479766845703,
+            "direction": "left"
+        },
+        {
+            "time": 153.10931396484376,
+            "direction": "left"
+        },
+        {
+            "time": 155.306640625,
+            "direction": "up"
+        },
+        {
+            "time": 157.54664611816407,
+            "direction": "up"
+        },
+        {
+            "time": 159.82931518554688,
+            "direction": "right"
+        },
+        {
+            "time": 162.0906524658203,
+            "direction": "down"
+        },
+        {
+            "time": 164.2666473388672,
+            "direction": "down"
+        },
+        {
+            "time": 166.52798461914063,
+            "direction": "left"
+        },
+        {
+            "time": 168.83200073242188,
+            "direction": "left"
+        },
+        {
+            "time": 170.9866485595703,
+            "direction": "up"
+        },
+        {
+            "time": 172.6933135986328,
+            "direction": "left"
+        },
+        {
+            "time": 173.86663818359376,
+            "direction": "left"
+        },
+        {
+            "time": 174.95465087890626,
+            "direction": "up"
+        },
+        {
+            "time": 176.1279754638672,
+            "direction": "right"
+        },
+        {
+            "time": 177.2159881591797,
+            "direction": "left"
+        },
+        {
+            "time": 177.83465576171876,
+            "direction": "up"
+        },
+        {
+            "time": 178.43199157714845,
+            "direction": "left"
+        },
+        {
+            "time": 178.9866485595703,
+            "direction": "left"
+        },
+        {
+            "time": 179.4986572265625,
+            "direction": "up"
+        },
+        {
+            "time": 180.6293182373047,
+            "direction": "right"
+        },
+        {
+            "time": 181.73866271972657,
+            "direction": "down"
+        },
+        {
+            "time": 182.8479766845703,
+            "direction": "left"
+        },
+        {
+            "time": 183.9359893798828,
+            "direction": "up"
+        },
+        {
+            "time": 185.066650390625,
+            "direction": "down"
+        },
+        {
+            "time": 186.1759796142578,
+            "direction": "left"
+        },
+        {
+            "time": 187.306640625,
+            "direction": "right"
+        },
+        {
+            "time": 189.0133056640625,
+            "direction": "left"
+        },
+        {
+            "time": 190.6773223876953,
+            "direction": "right"
+        }
+    ]
+}
