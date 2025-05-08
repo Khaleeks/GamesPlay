@@ -15,10 +15,12 @@
 
 The game explores the theme of rhythm and flow, not only through its musical structure but also through the fluid motion of the character as they fall. By combining musical timing with body positioning, the game emphasizes both auditory and spatial awareness, making rhythm not just something you hear—but something you do.
 
-![Friday Night Funkin’ Screenshot](assets/friday.png)  
+[Demo Video](https://youtu.be/8BertM4Lg_4?si=efbFkUbdS5QdwB4v)
+
+![Friday Night Funkin’ Screenshot](assets1/friday.png)  
 
 
-![Hole in The Wall](assets/hole.png)  
+![Hole in The Wall](assets1/hole.png)  
 
 
 ---
@@ -27,25 +29,25 @@ The game explores the theme of rhythm and flow, not only through its musical str
 
 ### Initial Concept
 
-![Initial Concept](assets/initial.png)  
+![Initial Concept](assets1/initial.png)  
 
 Our first iteration aimed to create a 3D game where a character remains in a fixed position while walls move toward them. The player would use joysticks to hit key combinations and match the wall shapes. However, we quickly realized that this interaction didn’t align well with the rhythm game genre. The disconnection between music and gameplay led to an experience that felt unintuitive and overly complex, with too many button combinations and no rhythm-based feedback.
 
 ### Second Iteration
 
-![Second Iteration](assets/second.png)  
+![Second Iteration](assets1/second.png)  
 
 We shifted gears to merge visual rhythm elements with the wall poses, attempting to sync falling notes with the carved wall shapes. This led to information overload: the visuals became cluttered, and players struggled to track both incoming walls and rhythm notes. Because the rhythm layer already carried all the necessary information, the background walls became redundant, confusing players rather than enhancing the experience.
 
 ### Third Iteration
 
-![Third Iteration](assets/third.png)  
+![Third Iteration](assets1/third.png)  
 
 The breakthrough came in the third iteration, where we reimagined the setting as a character falling from the sky. By rotating the camera to a top-down view, we created a more immersive experience. Now, walls appear below the player, and the timing of poses aligns with musical beats. We added a score and multiplier system, rewarding players for precision and consistency. This dramatically improved engagement and encouraged replayability.
 
 ### Fourth and Final Iteration
 
-![Fourth Iteration](assets/fourth.png)  
+![Fourth Iteration](assets1/fourth.png)  
 
 In the fourth and most refined version of the game, we resolved our biggest challenge: distributing information in a readable, intuitive way. We removed the arrow keys and added color-coded walls, enabling players to identify the correct pose quickly. The falling lines now indicate rhythm timing, bridging the gap between visual input and gameplay mechanics. A combo system and health barwere added to further gamify the experience—missed notes reduce health, while successful combos increase both health and score multipliers. When a player’s health is depleted, the game ends, pushing players to stay engaged and focused.
 
@@ -53,7 +55,7 @@ In the fourth and most refined version of the game, we resolved our biggest chal
 
 ## Playtest Assessment
 
-![Playtest Assessment](assets/playtest.png)  
+![Playtest Assessment](assets1/playtest.png)  
 
 We conducted several playtest sessions and captured videos throughout the development process. Playtesting helped us not only refine game mechanics but also significantly improve the user interface and visual design.
 
@@ -77,7 +79,7 @@ We’re proud of how the game turned out, especially how it blends rhythm with a
 
 ## Game as Meaningful Play
 
-![FALL'in Line](assets/opening.png)  
+![FALL'in Line](assets1/opening.png)  
 
 "FALL'in Line" embodies meaningful play by merging abstract musical timing with concrete physical actions. In doing so, it transforms rhythm from something auditory into something *kinesthetic* and *visual*.
 
