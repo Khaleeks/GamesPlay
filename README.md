@@ -49,7 +49,11 @@ The breakthrough came in the third iteration, where we reimagined the setting as
 
 ![Fourth Iteration](assets1/fourth.png)  
 
-In the fourth and most refined version of the game, we resolved our biggest challenge: distributing information in a readable, intuitive way. We removed the arrow keys and added color-coded walls, enabling players to identify the correct pose quickly. The falling lines now indicate rhythm timing, bridging the gap between visual input and gameplay mechanics. A combo system and health barwere added to further gamify the experience—missed notes reduce health, while successful combos increase both health and score multipliers. When a player’s health is depleted, the game ends, pushing players to stay engaged and focused.
+In the fourth and most refined version of the game, we resolved our biggest challenge: distributing information in a readable, intuitive way. We removed the arrow keys and added color-coded walls, enabling players to identify the correct pose quickly. The falling lines now indicate rhythm timing, bridging the gap between visual input and gameplay mechanics. A combo system was added to further gamify the experience— if a note is missed, the combo tracker would be reset. If no note is missed, the combos and score multipliers would increase and give more awards to the player, which encourages the player to be focused.
+
+### Technical Methodology
+
+We used a C# script to do the mapping of the notes: when in mapping mode, we hit keys according to the music, the script will document the timing and pressed key, and generate a JSON file that stores the data. Later, we use another C# script to read the JSON file and spawn the notes according to the data. We also use this script to spawn walls and control their speed to ensure that the wall runs into the figure at the exact time when the falling line hits the buttons. To optimize the gaming experience after the game is compiled, we store the JSON files in the /StreamingAssets folder to prioritize them when the game is loaded.
 
 ---
 
@@ -79,8 +83,10 @@ We also have great space for progress so far, these are things we would like to 
 - HP system: The HP slowly increases by nature, and would decrease greatly when the player misses a note. When the player loses all HP, the game ends.
 - Special notes: special notes and walls either require special inputs (like long press or quick hits within a period) or give special effects like increasing HP, which would add diversity to gameplay to a great extent.
 - More difficulty levels
+- Camera effects, to create a stronger illusion of falling
 - More soundtracks
 - More sound effects
+
 
 
 ---
