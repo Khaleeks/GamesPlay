@@ -15,8 +15,6 @@
 
 The game explores the theme of rhythm and flow, not only through its musical structure but also through the fluid motion of the character as they fall. By combining musical timing with body positioning, the game emphasizes both auditory and spatial awareness, making rhythm not just something you hear—but something you do.
 
-Demo Video: https://youtu.be/8BertM4Lg_4?si=efbFkUbdS5QdwB4v
-
 [Demo Video](https://youtu.be/8BertM4Lg_4?si=efbFkUbdS5QdwB4v)
 
 ![Friday Night Funkin’ Screenshot](assets1/friday.png)  
