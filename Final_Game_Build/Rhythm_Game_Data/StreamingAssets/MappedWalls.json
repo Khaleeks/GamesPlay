@@ -1,0 +1,2149 @@
+{
+    "Items": [
+        {
+            "time": 0.5333106517791748,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 0.7466440200805664,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 1.47199547290802,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 1.8133106231689453,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 2.517324209213257,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 2.7946484088897705,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 3.690657615661621,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 3.9893198013305664,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 4.885328769683838,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 7.082653045654297,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 9.34399127960205,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 9.599977493286133,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 10.38931941986084,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 10.645328521728516,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 11.477324485778809,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 11.8186616897583,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 12.650657653808594,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 12.970657348632812,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 13.823990821838379,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 15.999977111816406,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 18.36798095703125,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 18.55997657775879,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 19.413311004638672,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 19.690656661987305,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 20.607982635498047,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 20.842653274536133,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 21.695985794067383,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 21.951995849609375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 22.229320526123047,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 22.762653350830078,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 23.082653045654297,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 23.317323684692383,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 23.957324981689453,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 24.19199562072754,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 24.511995315551758,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 25.087982177734375,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 26.175987243652344,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 26.581315994262695,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 27.00798225402832,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 27.26399040222168,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 27.690656661987305,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 28.43732452392578,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 28.82131576538086,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 29.2053279876709,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 29.54664421081543,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 29.823991775512695,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 30.39997673034668,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 30.677324295043945,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 31.082653045654297,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 31.48798179626465,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 31.765329360961914,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 32.04265213012695,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 32.95997619628906,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 33.322654724121094,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 33.74932098388672,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 34.02664566040039,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 34.36798095703125,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 34.81598663330078,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 35.07199478149414,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 35.477325439453125,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 35.92532730102539,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 36.11732482910156,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 36.24532699584961,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 36.58664321899414,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 37.418663024902344,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 37.781314849853516,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 38.22932052612305,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 38.485328674316406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 38.613311767578125,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 38.74131393432617,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 38.954647064208984,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 39.658660888671875,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 40.04265213012695,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 40.42664337158203,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 40.7039909362793,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 40.95997619628906,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 41.89866256713867,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 42.28265380859375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 42.66664505004883,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 42.943992614746094,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 43.34931945800781,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 44.159976959228516,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 44.415985107421875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 44.69330978393555,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 44.949317932128906,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 45.247982025146484,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 45.82398986816406,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 46.12265396118164,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 46.954647064208984,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 48.04265213012695,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 48.29866027832031,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 49.087982177734375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 50.261314392089844,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 50.62398910522461,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 51.37065887451172,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 51.92532730102539,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 52.05331039428711,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 52.52265167236328,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 52.650657653808594,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 53.07732391357422,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 53.183990478515625,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 53.61065673828125,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 53.82398986816406,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 54.271995544433594,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 54.76265335083008,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 55.03997802734375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 55.893310546875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 57.023990631103516,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 57.27997589111328,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 58.1333122253418,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 59.242652893066406,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 59.58399200439453,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 60.351993560791016,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 60.88533020019531,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 61.03464889526367,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 61.43997573852539,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 61.5466423034668,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 63.1893196105957,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 63.42399215698242,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 64.25598907470703,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 64.49065399169922,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 65.4293212890625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 65.64265441894531,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 66.49598693847656,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 66.77330780029297,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 67.98931884765625,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 68.24533081054688,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 68.79998016357422,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 69.05598449707031,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 69.35464477539062,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 69.95199584960938,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 71.03997802734375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 71.31732177734375,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 71.6159896850586,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 72.1919937133789,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 72.42664337158203,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 73.2373275756836,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 73.5146484375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 74.41065979003906,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 74.66664123535156,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 75.51997375488281,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 75.88265228271484,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 76.07464599609375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 76.26664733886719,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 76.45866394042969,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 76.6506576538086,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 76.88533020019531,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 77.93065643310547,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 78.12265014648438,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 78.2933120727539,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 78.52798461914062,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 78.67732238769531,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 78.84798431396484,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 79.06131744384766,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 79.95732116699219,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 80.36265563964844,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 80.76798248291016,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 81.10932159423828,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 81.5359878540039,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 82.26131439208984,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 82.64533233642578,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 83.00798034667969,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 83.306640625,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 83.58399200439453,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 84.15998077392578,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 84.45866394042969,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 84.8639907836914,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 85.33331298828125,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 85.58931732177734,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 85.82398986816406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 86.76264953613281,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 87.12532806396484,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 87.48798370361328,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 87.7866439819336,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 88.170654296875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 88.61865997314453,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 88.78932189941406,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 89.04532623291016,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 89.36532592773438,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 89.72798156738281,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 89.8986587524414,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 90.11199188232422,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 90.45330810546875,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 91.17866516113281,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 91.56265258789062,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 92.01065826416016,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 92.28797912597656,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 92.50131225585938,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 92.7359848022461,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 93.43997955322266,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 93.82398986816406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 94.16532897949219,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 94.50664520263672,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 94.82664489746094,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 95.7013168334961,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 96.12798309326172,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 96.51199340820312,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 96.78932189941406,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 97.17330932617188,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 97.91997528076172,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 98.21865844726562,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 98.49598693847656,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 98.75199890136719,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 99.0293197631836,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 99.26399230957031,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 99.58399200439453,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 99.86131286621094,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 100.69331359863281,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 101.82398986816406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 102.12265014648438,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 102.97598266601562,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 102.99732208251953,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 104.10664367675781,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 104.31997680664062,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 105.2373275756836,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 105.72798156738281,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 105.87732696533203,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 106.30399322509766,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 106.41065979003906,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 106.8586654663086,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 107.00798034667969,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 107.39199829101562,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 107.90399169921875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 108.03199768066406,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 108.3733139038086,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 108.5653305053711,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 108.8426513671875,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 109.65331268310547,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 110.78398895263672,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 111.06131744384766,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 111.95732116699219,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 113.04532623291016,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 113.4079818725586,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 114.13330841064453,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 114.70932006835938,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 114.83732604980469,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 115.2426528930664,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 115.39199829101562,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 115.81866455078125,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 115.94664764404297,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 116.3733139038086,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 116.47998046875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 116.97065734863281,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 117.24797821044922,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 117.52532958984375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 117.97331237792969,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 118.101318359375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 118.69866180419922,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 119.76532745361328,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 120.21331024169922,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 120.36265563964844,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 120.91732788085938,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 122.06932067871094,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 122.38932037353516,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 122.55997467041016,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 123.17866516113281,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 123.47732543945312,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 124.79998016357422,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 124.99199676513672,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 125.22664642333984,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 125.43997955322266,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 125.61065673828125,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 125.84532928466797,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 126.03732299804688,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 126.2719955444336,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 127.14664459228516,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 127.35997772216797,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 128.14932250976562,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 128.40533447265625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 129.2586669921875,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 129.53598022460938,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 130.49598693847656,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 131.92532348632812,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 132.22398376464844,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 132.73599243164062,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 133.78131103515625,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 133.99464416503906,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 134.20797729492188,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 134.3999786376953,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 134.5919952392578,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 134.78399658203125,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 134.95465087890625,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 135.27464294433594,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 135.7653350830078,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 136.36265563964844,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 136.59732055664062,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 136.72532653808594,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 136.91732788085938,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 137.10931396484375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 137.5146484375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 138.79464721679688,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 138.9866485595703,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 139.2213134765625,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 139.3706512451172,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 139.73330688476562,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 140.13865661621094,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 140.7146453857422,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 140.8853302001953,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 141.11997985839844,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 141.24798583984375,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 141.46131896972656,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 141.65330505371094,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 141.9306640625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 142.74131774902344,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 143.18931579589844,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 143.61598205566406,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 143.9573211669922,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 144.31997680664062,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 144.78932189941406,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 145.0453338623047,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 145.45065307617188,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 145.8773193359375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 146.15464782714844,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 146.49598693847656,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 147.0079803466797,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 147.2639923095703,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 147.73330688476562,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 148.07464599609375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 148.35198974609375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 148.6293182373047,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 149.54664611816406,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 149.8879852294922,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 150.29330444335938,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 150.5919952392578,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 151.01866149902344,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 151.4239959716797,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 151.70130920410156,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 152.170654296875,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 152.57598876953125,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 152.8533172607422,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 153.19464111328125,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 154.02664184570312,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 154.41065979003906,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 154.7733154296875,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 155.02931213378906,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 155.19998168945312,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 155.5199737548828,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 155.96798706054688,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 156.22398376464844,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 156.6293182373047,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 156.9919891357422,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 157.35464477539062,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 157.58932495117188,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 158.5066375732422,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 158.89065551757812,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 159.27464294433594,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 159.57330322265625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 159.9359893798828,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 160.74664306640625,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 160.95997619628906,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 161.2799835205078,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 161.5146484375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 161.83465576171875,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 162.11199951171875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 162.38931274414062,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 162.7519989013672,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 163.54132080078125,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 164.65065002441406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 165.0133056640625,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 165.78131103515625,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 166.86932373046875,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 167.25331115722656,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 167.97866821289062,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 168.51199340820312,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 168.66131591796875,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 169.0453338623047,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 169.17330932617188,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 169.62132263183594,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 169.7279815673828,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 170.21865844726562,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 170.60264587402344,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 170.70932006835938,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 171.2639923095703,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 171.54132080078125,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 171.75465393066406,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 172.47998046875,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 172.8853302001953,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 173.03465270996094,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 173.39732360839844,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 174.4213104248047,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 174.719970703125,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 175.12533569335938,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 175.27464294433594,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 175.72265625,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 175.91464233398438,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 176.14932250976562,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 176.98130798339844,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 177.49331665039062,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 177.6426544189453,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 178.0906524658203,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 178.21865844726562,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 178.62399291992188,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 178.7519989013672,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 179.19998168945312,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 179.32798767089844,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 179.77598571777344,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 180.41598510742188,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 180.75732421875,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 180.90664672851562,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 181.52532958984375,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 182.5919952392578,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 182.97598266601562,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 183.10398864746094,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 183.70130920410156,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 184.81065368652344,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 185.10931396484375,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 185.2799835205078,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 185.85598754882812,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 186.30398559570312,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 187.02931213378906,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 188.0959930419922,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 188.15997314453125,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 189.31199645996094,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 189.69598388671875,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 189.82398986816406,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 190.4213104248047,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 191.57330322265625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 191.8719940185547,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 192.0213165283203,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 192.63998413085938,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 193.85598754882812,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 194.13331604003906,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 194.28265380859375,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 194.7519989013672,
+            "direction": "up",
+            "spawnObject": "upWall"
+        },
+        {
+            "time": 194.94398498535156,
+            "direction": "down",
+            "spawnObject": "downWall"
+        },
+        {
+            "time": 195.2853240966797,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 195.96798706054688,
+            "direction": "left",
+            "spawnObject": "leftWall"
+        },
+        {
+            "time": 197.16265869140625,
+            "direction": "right",
+            "spawnObject": "rightWall"
+        },
+        {
+            "time": 197.29066467285156,
+            "direction": "up",
+            "spawnObject": "upWall"
+        }
+    ]
+}
